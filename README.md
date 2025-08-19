@@ -106,11 +106,7 @@ climate-change-monitoring-dashboard/
 ---
 
 ## 📬 Connect  
-👨‍💻 **Author**: [Your Name](#)  
-🔗 **LinkedIn**: [Your Profile](#)  
-📊 **Tableau Public**: [Your Dashboard](#)  
-📂 **GitHub**: [This Repository](#)  
-
+👨‍💻 **Author**: [Tushar Kshirsagar](#)  
 ---
 
 ✨ *This isn’t just a project—it’s a demonstration of end-to-end problem solving: from business understanding to BI delivery.*  
